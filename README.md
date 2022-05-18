@@ -26,7 +26,7 @@
 <h3>Short sweet headline with 🎇🎉</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/fx-login/main/images/screenshot.jpg" alt="fx-login Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/fx-login/main/images/screenshot.png" alt="fx-login Demo" style="width:100%">
   <br/>
   <figcaption>fx-login screenshot</figcaption>
 </figure>
