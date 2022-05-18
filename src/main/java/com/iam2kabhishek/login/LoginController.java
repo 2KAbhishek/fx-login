@@ -21,8 +21,8 @@ public class LoginController {
             Stage stage = (Stage) loginButton.getScene().getWindow();
             stage.close();
 
-            // Replace App.class with the name of your Application class
-            App.multiLaunch(App.class);
+            // Replace Demo.class with the name of your Application class
+            App.multiLaunch(Demo.class);
         } else {
             switchToSignup();
         }
