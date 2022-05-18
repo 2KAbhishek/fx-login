@@ -9,7 +9,7 @@
 
 <VBox alignment="CENTER" prefHeight="213.0" prefWidth="325.0" spacing="20.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.iam2kabhishek.login.LoginController">
    <children>
-      <Label text="Demo Login" />
+      <Label text="FX Login" />
       <TextField fx:id="userLogin" promptText="Username" />
       <PasswordField fx:id="passLogin" promptText="Password" />
       <Button fx:id="loginButton" defaultButton="true" onAction="#loginUser" text="Login" />

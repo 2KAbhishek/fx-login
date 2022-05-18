@@ -9,7 +9,7 @@
 
 <VBox alignment="CENTER" prefHeight="243.0" prefWidth="306.0" spacing="20.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.iam2kabhishek.login.SignUpController">
     <children>
-        <Label text="Demo Sign Up" />
+        <Label text="FX Sign Up" />
         <TextField fx:id="userSignup" promptText="Username" />
         <PasswordField fx:id="passSignup" promptText="Password" />
         <Button fx:id="registerButton" defaultButton="true" onAction="#registerUser" text="Register" />
