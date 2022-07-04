@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/fx-login">fx-login</a></h1>
+<h1><a href="https://2kabhishek.github.io/fx-login">FX Login</a></h1>
 
 <a href="https://github.com/2KAbhishek/fx-login/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/fx-login?style=plastic&color=white&label=License"> </a>
@@ -23,7 +23,7 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>Reusable JavaFX Login Module 🔑🔓</h3>
 
 <figure>
   <img src= "images/screenshot.png" alt="fx-login Demo" style="width:100%">
@@ -35,17 +35,18 @@
 
 ## What is this
 
-fx-login is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+This is a reusable JavaFX login module.
+It is a plugin module that can be used to create a login screen in any JavaFX app.
 
 ## Inspiration
 
-fx-login was inspired by `<reason/idea>`.
+Was working with some JavaFX apps, needed a reusable login module.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `JavaFX`, `Java`.
 
 ## Getting fx-login
 
@@ -54,51 +55,24 @@ To install fx-login, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/fx-login
 cd fx-login
-<install_command>
 ```
 
 ## Using fx-login
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+This can used as a starting point for your own login module.
 
 ## How it was built
 
-fx-login was built using `<tech/library>`
+fx-login was built using `VS Code`, `JavaFX`, `Java`.
 
 ## Challenges faced
 
-While building fx-login the main challenges were `<issue/difficulty>`
+Setting up JavaFX was a bit tricky.
 
 ## What I learned
 
-While building fx-login I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+- Learned about the `JavaFX` ecosystem and how to use it.
+- Used FXML and SceneBuilder for Scene creation.
 
 Hit the ⭐ button if you found this useful.
 
